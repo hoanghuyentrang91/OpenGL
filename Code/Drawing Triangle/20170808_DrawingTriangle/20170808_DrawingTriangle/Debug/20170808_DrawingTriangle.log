@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function _SDL_main
+main.obj : error LNK2019: unresolved external symbol __imp__glClearColor@16 referenced in function _SDL_main
+main.obj : error LNK2019: unresolved external symbol __imp__glDrawArrays@12 referenced in function _SDL_main
+C:\Users\ryu\Documents\Visual Studio 2017\Projects\20170808_DrawingTriangle\Debug\20170808_DrawingTriangle.exe : fatal error LNK1120: 3 unresolved externals
