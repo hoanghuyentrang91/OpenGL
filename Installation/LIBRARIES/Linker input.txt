@@ -1,0 +1,7 @@
+glew32.lib
+glew32s.lib
+SDL2.lib
+SDL2main.lib
+SDL2test.lib
+OpenGL32.lib
+SOIL.lib
