@@ -1,0 +1,9 @@
+﻿  Main.cpp
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 60 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  20170814_Transformation.vcxproj -> C:\Users\ryu\Documents\Visual Studio 2017\Projects\20170814_Transformation\Release\20170814_Transformation.exe
